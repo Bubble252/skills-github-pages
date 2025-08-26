@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+你他妈傻逼: Welcome to my blog
 ---
 
